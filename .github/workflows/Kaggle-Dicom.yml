@@ -34,4 +34,4 @@ jobs:
         $CONDA/bin/pytest
     - name: Run Python solution
       run:
-        OSICpy.py
+        #OSICpy.py
