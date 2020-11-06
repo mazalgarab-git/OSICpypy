@@ -25,3 +25,7 @@ Python project as a proposal for the Kaggle competition OSIC Pulmonary Fibrosis 
 5. Conditionning | Phase 5: Get Kaggle data (i.e. pydicom files on test and train directories) from `https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data`
 6. Conditionning | Phase 6: Put Pydicom data as follows: (1) `train dataset` to `Y:/Kaggle_OSIC//2-Data/train/`; (2) `test dataset` to `Y:/Kaggle_OSIC/2-Data/test/`
 7. Installation | Phase 1: Put files on `Project/` into `Y:/Kaggle_OSIC/OSICpypy/`
+
+## Remark
+
+1. The submissions available at `OSICpypy/submissions_to_2020_11_03/` were not submitted to compete.
