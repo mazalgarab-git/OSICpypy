@@ -11,10 +11,10 @@ Python project as a proposal for the Kaggle competition OSIC Pulmonary Fibrosis 
 
 ## Conditionning and Installation guide
 
-1. Conditionning | Phase 1: Get libraries by commiting **pip install -r requirements.txt**
-2. Conditionning | Phase 2: Get the repository by commiting **git clone https://github.com/mazalgarab-git/OSICpypy.git**
-3. Conditionning | Phase 3: Build a root **Y:/Kaggle_OSIC/**
-4. Conditionning | Phase 4: Get basic structure (i.e. tree-directory structure to start based on Data/TreeStructure_To_start.txt) by unzipping **Data/TreeStructure_To_start.rar** into **Y:/**
-5. Conditionning | Phase 5: Get Kaggle data (i.e. pydicom files on test and train directories) from **https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data**
-6. Conditionning | Phase 6: Put Pydicom data as follows: (1) **train dataset** to **Y:/Kaggle_OSIC//2-Data/train/**; (2) **test dataset** to **Y:/Kaggle_OSIC/2-Data/test/**
-7. Installation | Phase 1: Put **Project/** into **Y:/Kaggle_OSIC/OSICpypy/**
+1. Conditionning | Phase 1: Get libraries by commiting 'pip install -r requirements.txt'
+2. Conditionning | Phase 2: Get the repository by commiting 'git clone https://github.com/mazalgarab-git/OSICpypy.git'
+3. Conditionning | Phase 3: Build a root 'Y:/Kaggle_OSIC/'
+4. Conditionning | Phase 4: Get basic structure (i.e. tree-directory structure to start based on Data/TreeStructure_To_start.txt) by unzipping 'Data/TreeStructure_To_start.rar' into 'Y:/'
+5. Conditionning | Phase 5: Get Kaggle data (i.e. pydicom files on test and train directories) from 'https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data'
+6. Conditionning | Phase 6: Put Pydicom data as follows: (1) 'train dataset' to 'Y:/Kaggle_OSIC//2-Data/train/'; (2) 'test dataset' to 'Y:/Kaggle_OSIC/2-Data/test/'
+7. Installation | Phase 1: Put 'Project/' into 'Y:/Kaggle_OSIC/OSICpypy/'
