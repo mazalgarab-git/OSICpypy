@@ -12,8 +12,9 @@ Python project as a proposal for the Kaggle competition OSIC Pulmonary Fibrosis 
 ## Conditionning and Installation guide
 
 1. Conditionning | Phase 1: Get libraries commiting pip install -r requirements.txt
-2. Conditionning | Phase 2: Get basic structure (i.e. tree-directory structure to start) downloading
-3. Conditionning | Phase 3: Get Kaggle data (i.e. pydicom files on test and train directories) from https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data
-4. Conditionning | Phase 4: Put Pydicom data as follows: (1) train dataset to ../2-Data/train/; (2) test dataset to ../2-Data/test/
-5. Installation | Phase 1: Download the repository commiting git clone https://github.com/aimacode/aima-python.git 
-6. Installation | Phase 2:
+2. Conditionning | Phase 2: Build a root Y:/Kaggle_OSIC/
+2. Conditionning | Phase 3: Get 3 basic structures (i.e. tree-directory structure to start) committing run basicstructure.py 
+3. Conditionning | Phase 4: Get Kaggle data (i.e. pydicom files on test and train directories) from https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data
+4. Conditionning | Phase 5: Put Pydicom data as follows: (1) train dataset to ../2-Data/train/; (2) test dataset to ../2-Data/test/
+5. Installation | Phase 6: Get the repository commiting git clone https://github.com/mazalgarab-git/OSICpypy.git
+6. Installation | Phase 7: Put OSICpypy as follws Y:/Kaggle_OSIC/OSICpypy/
