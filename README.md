@@ -3,7 +3,9 @@ Python project as a proposal for the Kaggle competition OSIC Pulmonary Fibrosis 
 
 ## Core ideas to get the proposed solution
 
-1. Image processing: Dicom images are processed using library imageio and build index based on train data; see the file `Project/Support-Sourced/generic_imageio.py`
+1. Image processing:
+   - Dicom images are processed using library imageio
+   - An index has been designed based on the training data; see the file `Project/Support-Sourced/generic_imageio.py`
 2. Predicting: Prediction is based on a stacking solution fostered by scikit-learn known as Combine predictors using stacking (see https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html#sphx-glr-auto-examples-ensemble-plot-stack-predictors-py), that scikit-learn solution has been adequated to predict; see the file `Project/MLModel/MachineLearningModel_PydicomFeatures.py`
 
 ### Structure of the project
