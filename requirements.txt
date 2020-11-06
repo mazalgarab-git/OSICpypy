@@ -1,3 +1,5 @@
+# Required Python version: 3.6
+
 # Core libraries
 pydicom == 2.0.0
 imageio == 2.9.0
