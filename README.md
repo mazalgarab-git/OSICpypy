@@ -10,11 +10,11 @@ Python project as a proposal for the Kaggle competition OSIC Pulmonary Fibrosis 
 
 ### Structure of the project
 
-[Diagram powered by Lucidchart](https://lucid.app/publicSegments/view/e2e5459f-ec5b-402d-b229-996608c53945/image.png)
+[see the use case diagram powered by Lucidchart](https://lucid.app/publicSegments/view/e2e5459f-ec5b-402d-b229-996608c53945/image.png)
 
 ### Activity diagram
 
-[Diagram powered by Lucidchart](https://lucid.app/publicSegments/view/c03a61ce-5d1c-4e7f-9fcd-f62e444996c1/image.png)
+[see the activity diagram powered by Lucidchart](https://lucid.app/publicSegments/view/c03a61ce-5d1c-4e7f-9fcd-f62e444996c1/image.png)
 
 ## Conditionning and Installation guide
 
